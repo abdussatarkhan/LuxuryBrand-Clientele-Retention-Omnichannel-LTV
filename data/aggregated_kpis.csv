@@ -1,0 +1,6 @@
+entity_type,total_records,mean_purchase_amount,p95_annual_clv_score,anomaly_count
+Haute Horlogerie,234,54.04,103.36,23
+High Fine Jewelry,248,53.51,109.69,19
+Bespoke Leather Goods,231,52.13,102.59,30
+Ready-to-Wear Couture,242,49.86,101.98,23
+Private Trunk Show,245,51.4,103.2,21
